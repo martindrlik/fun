@@ -1,0 +1,2 @@
+# fun
+Some usable functions.
